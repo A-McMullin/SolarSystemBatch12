@@ -13,6 +13,9 @@ public class Main {
         xFact.Color = "green";
         xFact.Heat  = "1500000000F";
         xFact.Radius = "654818098138M";
+
+        Stars star = new Stars();
+        star.stars = "100000";
     }
 }
 
