@@ -16,6 +16,11 @@ public class Main {
 
         Stars star = new Stars();
         star.stars = "100000";
+
+        PlanetFeature hulk = new PlanetFeature();
+        hulk.color = "Blue";
+        hulk.size = "348502234Km";
+        hulk.name = "Vulcan";
     }
 }
 
