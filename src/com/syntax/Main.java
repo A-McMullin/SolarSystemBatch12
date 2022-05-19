@@ -16,6 +16,11 @@ public class Main {
 
         Stars star = new Stars();
         star.stars = "100000";
+
+        Planet2 norway = new Planet2();
+        norway.color = "green";
+        norway.size = "8420234234M";
+        norway.name = "death star";
     }
 }
 
