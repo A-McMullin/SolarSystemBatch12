@@ -21,6 +21,12 @@ public class Main {
         norway.color = "green";
         norway.size = "8420234234M";
         norway.name = "death star";
+
+        PlanetFeature hulk = new PlanetFeature();
+        hulk.color = "Blue";
+        hulk.size = "348502234Km";
+        hulk.name = "Vulcan";
+
     }
 }
 
